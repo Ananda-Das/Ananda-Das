@@ -1,6 +1,9 @@
+## :chart_with_upwards_trend: Current Stats
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ananda-Das&theme=tokyonight-duo&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
+<br/>
+<p align="center">
+<img width="90%" src='https://github-readme-streak-stats.herokuapp.com?user=Ananda-Das&theme=tokyonight-duo&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500'>
+</p>
 
 
 - 🔭 I’m currently working on ...
