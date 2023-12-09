@@ -3,7 +3,7 @@
 <img width="70%" src="https://raw.githubusercontent.com/Ananda-Das/Ananda-Das/main/images/cover3.png">
 </p>
 
-## :user: About Me
+## About Me
 
 <br/>
 
