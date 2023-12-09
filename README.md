@@ -35,9 +35,15 @@ As a web developer, I architect and build digital landscapes, bringing ideas to 
 
 ## Recent Projects
 
-## Medical Diagnostic Center With React
+## Medical Diagnostic Center With React and Payment Integration
 
   **Live Link:** [Live Link](https://diagnostic-center-management.web.app/)
+
+  <!-- https://raw.githubusercontent.com/Ananda-Das/Ananda-Das/main/images/Medicare.JPG -->
+
+  <p align="center">
+<img width="90%" src="https://raw.githubusercontent.com/Ananda-Das/Ananda-Das/main/images/Medicare.JPG">
+</p>
 
   **Technologies Used:**
 - React js, Node js, Express, JWT, HTML, CSS, JS
@@ -54,6 +60,45 @@ As a web developer, I architect and build digital landscapes, bringing ideas to 
 - User can get their test result when Admin submit the test result.
 - Admin can update the result from his end.
 
+## Job Hunter with React with JWT Token
+
+  **Live Link:** [Live Link](https://job-hunter-188ab.web.app/)
+
+  <p align="center">
+<img width="90%" src="https://raw.githubusercontent.com/Ananda-Das/Ananda-Das/main/images/job%20hunter.JPG">
+</p>
+
+  **Technologies Used:**
+- React js, Node js, Express, JWT, HTML, CSS, JS
+- MongoDB, Firebase
+- Tailwind CSS, DaisyUI, Tanstack Query, Axios
+
+**Features:**
+
+- In this website user can post and apply job.
+- User can download a summary of pdf of his/her applied job.
+- A user cann't apply his/her own posted Job.
+
+
+## Car Zone With React
+
+  **Live Link:** [Live Link](https://react-brand-shop-4bc0a.web.app/)
+
+  <p align="center">
+<img width="90%" src="https://raw.githubusercontent.com/Ananda-Das/Ananda-Das/main/images/car%20zone.JPG">
+</p>
+
+  **Technologies Used:**
+- React js, Node js, HTML, CSS, JS
+- MongoDB, Firebase,
+- Tailwind CSS, DaisyUI
+
+**Features:**
+
+- In this website user can login/register to Add car.
+- User can see a particular car details if he/she is logged in.
+- User can add cars in cart.
+- User can see their cart products in the cart page.
 
 
 
