@@ -9,6 +9,10 @@
 
 I'm a MERN stack specialist and full-stack web developer with a flair for frontend technologies. My passion lies in translating ideas into visually striking and functional websites. Detail-oriented and committed to staying abreast of industry trends, I bring a dedicated approach to crafting innovative and seamless digital experiences.
 
+## About My Work
+
+As a web developer, I architect and build digital landscapes, bringing ideas to life through coding mastery. Specializing in frontend and MERN stack, I create visually engaging and functionally robust websites. My work involves problem-solving, attention to detail, and staying at the forefront of evolving web technologies to deliver seamless online experiences.
+
 ## :chart_with_upwards_trend: Current Github Stats
 
 <br/>
