@@ -3,6 +3,12 @@
 <img width="70%" src="https://raw.githubusercontent.com/Ananda-Das/Ananda-Das/main/images/cover3.png">
 </p>
 
+## :user: About Me
+
+<br/>
+
+I'm a MERN stack specialist and full-stack web developer with a flair for frontend technologies. My passion lies in translating ideas into visually striking and functional websites. Detail-oriented and committed to staying abreast of industry trends, I bring a dedicated approach to crafting innovative and seamless digital experiences.
+
 ## :chart_with_upwards_trend: Current Github Stats
 
 <br/>
