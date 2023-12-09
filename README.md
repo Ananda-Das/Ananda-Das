@@ -33,6 +33,30 @@ As a web developer, I architect and build digital landscapes, bringing ideas to 
   </a> <br/>
 </p>
 
+## Recent Projects
+
+## Medical Diagnostic Center With React
+
+  **Live Link:** [Live Link](https://diagnostic-center-management.web.app/)
+
+  **Technologies Used:**
+- React js, Node js, Express, JWT, HTML, CSS, JS
+- MongoDB, Firebase, Stripe payment
+- Tailwind CSS, DaisyUI, Tanstack Query
+
+**Features:**
+
+- In this website I have two types of user Admin & User.
+- User can register and login through their email & password.
+- User can see the tests which are listed in the website & booked them.
+- To booked user need to payment the test price using Stripe Payment Method.
+- User can see their booking in their booked page.
+- User can get their test result when Admin submit the test result.
+- Admin can update the result from his end.
+
+
+
+
 ## :chart_with_upwards_trend: Current Github Stats
 
 <br/>
