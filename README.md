@@ -1,5 +1,4 @@
 
-<img src='/images/cover.png'>
 
 ## :chart_with_upwards_trend: Current Github Stats
 
